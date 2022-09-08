@@ -1,0 +1,40 @@
+name: "sanctuaries"
+navbar:
+  logo:
+    image: "./images/onms-logo-no-text-800.png"
+    href: "https://noaa-onms.github.io/"
+  title: <img src='./images/onms-logo-no-text-800.png' width='32p' style='vertical-align:top'> Sanctuary Watch
+  icon: fa-info
+  left:
+    - text: "WebCRs"
+      href: webcrs.html
+      menu:
+        - text: "Channel Islands"
+          href: https://noaa-onms.github.io/cinms/
+        - text: "Florida Keys"
+          href: https://noaa-iea.github.io/fk-esr-info/infographic.html
+        - text: "Olympic Coast"
+          href: https://noaa-onms.github.io/ocnms/
+    - text: "Conservation Issues"
+      href: issues.html
+      menu:
+        - text: "Sound"
+          href: https://sanctsound.ioos.us/
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme:
+      version: 3
+      bootswatch: cerulean
+      primary: '#00467f' # sanctuaries.noaa.gov navbar: darkblue=#00467f, teal=#008da8
+      secondary: '#FFF'
+    css:
+    - libs/styles.css
+    self_contained: no
+    lib_dir: site_libs
+    mathjax: ~
+    includes:
+      before_body: libs/before_body.html
+      after_body: libs/footer.html
+output_dir: '.'
