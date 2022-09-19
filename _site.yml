@@ -2,7 +2,7 @@ name: "sanctuaries"
 navbar:
   logo:
     image: "./images/onms-logo-no-text-800.png"
-    href: "https://noaa-onms.github.io/"
+    href: "https://sanctuarywatch.ioos.us/"
   title: <img src='./images/onms-logo-no-text-800.png' width='32p' style='vertical-align:top'> Sanctuary Watch
   icon: fa-info
   left:
@@ -10,11 +10,11 @@ navbar:
       href: webcrs.html
       menu:
         - text: "Channel Islands"
-          href: https://noaa-onms.github.io/cinms/
+          href: https://sanctuarywatch.ioos.us/webcr-channelislands/
         - text: "Florida Keys"
           href: https://noaa-iea.github.io/fk-esr-info/infographic.html
         - text: "Olympic Coast"
-          href: https://noaa-onms.github.io/ocnms/
+          href: https://sanctuarywatch.ioos.us/webcr-olympiccoast/
     - text: "Conservation Issues"
       href: issues.html
       menu:
