@@ -1,2 +1,2 @@
 # sanctuarywatch.ioos.us
-Default website for NOAA-ONMS
+Repo that holds the website for Sanctuary Watch

@@ -10,6 +10,6 @@ The web-enabled Condition Reporting (WebCR) platform pairs artwork with informat
 
 ## Conservation Issues - Tools to Inform and Improve Management
 
-A number of pressing issues are facing sanctuaries, such as ocean noise, invasive species, marine debris, and climate change. Below are interactive tools that improve access to monitoring and characterization information that address these issues. 
+A number of pressing issues are facing sanctuaries, such as ocean noise, invasive species, marine debris, and climate change. We are building interactive tools that improve access to monitoring and characterization information that address these issues. Our first tool is focused on soundscapes and ocean noise. Tiles for other issues will be added as those tools become available.
 
 [!["Sanctuary Soundscape Monitoring Project"](images/tmp-card_issue-sanctsound2.png){width=24%}](https://sanctsound.ioos.us/){target="_blank"}
