@@ -16,6 +16,8 @@ Easy access to information for tracking ecosystem conditions, human connections 
 
 For more information about this approach:
 
+- [Sanctuary Watch Fact Sheet](FactSheetDec2002.pdf)
+
 -   [Developing Science-Based Indicator Portfolios For National Marine Sanctuary Condition Reports](https://sanctuaries.noaa.gov/science/conservation/2019-science-based-indicator-portfolios.html)
 
 -   [Webenizing Condition Reports: Communicating Data-Driven Ecosystem Indicators in a Visually Engaging and Interactive Online Platform](https://sanctuaries.noaa.gov/science/conservation/webenizing-condition-reports.html)
